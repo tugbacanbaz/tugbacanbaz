@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-<!--
-**tugbacanbaz/tugbacanbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ### <i>About</i> 
 - 🔭 I’m currently working on JavaScript and React.js Projects.
 - 📫 How to reach me: tugbacanbaz.pi@gmail.com 
-- 😄 Pronouns: she/her 
 - :art: My hobbies are long walks on the beach, painting with acrylic and almost all kinds of sports.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
