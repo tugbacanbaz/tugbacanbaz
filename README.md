@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### <i>About</i> 
-- 🔭 I’m currently working on JavaScript and React.js Projects.
-- 📫 How to reach me: tugbacanbaz.pi@gmail.com 
-- :art: My hobbies are long walks on the beach, painting with acrylic and almost all kinds of sports.
+- 🔭 I’m currently working on Python Projects.
+- 📫 How to reach me: tugbacanbazsevinc@gmail.com 
+- :art: My hobbies are diving, painting with acrylic and almost all kinds of sports.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
